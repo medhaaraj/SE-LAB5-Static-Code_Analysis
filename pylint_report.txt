@@ -1,0 +1,7 @@
+************* Module inventory_system
+inventory_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+inventory_system.py:143:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 9.80/10 (previous run: 9.80/10, +0.00)
+
